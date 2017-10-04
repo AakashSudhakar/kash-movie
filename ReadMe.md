@@ -7,7 +7,7 @@
 ## Character Listing:
 - Main protagonist dude: Ferdinand Cruz
 - Protagonist's sidekick: Alan "Captain Rainbow" Davis
-- Main antagonist dude: Andrew tsukuda
+- Main antagonist dude: Andrew Tsukuda
 - Antagonist's sidekick: Jade Stone
-- Car repair dude: Tony Cioara
+- Car repair dude: Tony "Nerd" Cioara
 - Repair dude's sidekick: Avery Durrant
